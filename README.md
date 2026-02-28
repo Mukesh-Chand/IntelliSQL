@@ -1,4 +1,4 @@
-# End to End Text To SQL LLM App Using Google Gemini Pro
+# IntelliSQL: Intelligent SQL Querying with LLMs Using Gemini Pro
 ![image](https://github.com/divakarkumar424/Text-To-SQL-LLM-App/assets/32620288/caa26231-8266-42e8-a6a8-711a37133442)
 
 This app lets you ask questions about data in plain English. It then translates those questions into SQL, a language databases understand, and retrieves the data for you. It simplifies data exploration for everyone, even those with no coding experience.
